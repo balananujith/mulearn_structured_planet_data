@@ -1,5 +1,3 @@
-# mulearn_structured_planet_data
-
 # Structured Planet Data
 
 ## Overview
